@@ -16,19 +16,19 @@
     }
   },
   "test": {
-    "version": "0.10.8",
-    "name": "Private Folder 0.10.8",
-    "notes": "Internet sync setup, reliable in-app updates, folder trees, system file manager actions, and share-after-ZIP.",
-    "releaseUrl": "https://github.com/Ashpray94/private-folder-releases/releases/tag/v0.10.8",
+    "version": "0.10.9",
+    "name": "Private Folder 0.10.9",
+    "notes": "Direct private IPv6 sync without a relay provider; device addresses stay hidden behind device names.",
+    "releaseUrl": "https://github.com/Ashpray94/private-folder-releases/releases/tag/v0.10.9",
     "windows": {
-      "url": "https://github.com/Ashpray94/private-folder-releases/releases/download/v0.10.8/Private-Folder-Setup-0.10.8.exe",
-      "size": 8496557,
-      "sha256": "9f835d29c0305dc212b70b20df4443814f8d6e14b54dcf71fb64c20ceca005ed"
+      "url": "https://github.com/Ashpray94/private-folder-releases/releases/download/v0.10.9/Private-Folder-Setup-0.10.9.exe",
+      "size": 8498903,
+      "sha256": "e0f734aeb22c9c3a9d0ea9bc2118958375c43995429269982e8e469ebba4509f"
     },
     "android": {
-      "url": "https://github.com/Ashpray94/private-folder-releases/releases/download/v0.10.8/Private-Folder-Android-0.10.8.apk",
+      "url": "https://github.com/Ashpray94/private-folder-releases/releases/download/v0.10.9/Private-Folder-Android-0.10.9.apk",
       "size": 75009780,
-      "sha256": "270b5e8cb61cbde89a78cd53751bbeb171aad932be1195e2a8dfeb068b37ced5"
+      "sha256": "b6fb5cc2e9b3a119256709ff60880d7cb11788cada29748c21a99dd52635a86b"
     }
   }
 }
